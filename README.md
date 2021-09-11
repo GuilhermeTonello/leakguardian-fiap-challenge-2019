@@ -10,11 +10,11 @@ Projeto desenvolvido na FIAP com parceria com a Vivo no primeiro ano da faculdad
 </p>
 
 <p>
-Nesse projeto, a linguagem de programação Python foi utilizada, juntamente a placa Raspberry Pi. Há dois executáveis, **executar-grafico.py**, o qual possui um gráfico acoplado ao sistema. Já o executável **executar.py** é o mesmo programa, porém ele não possui esse gráfico. Como sistema web, foi utilizado o seguinte site: [https://mydevices.com/](https://mydevices.com/)
+Nesse projeto, a linguagem de programação Python foi utilizada, juntamente a placa Raspberry Pi. Há dois executáveis, **executar-grafico.py**, o qual possui um gráfico acoplado ao sistema. Já o executável **executar.py** é o mesmo programa, porém ele não possui esse gráfico. Como sistema web, foi utilizado o seguinte site: <a href="https://mydevices.com" target="_blank">https://mydevices.com</a>
 </p>
 
 <p>
-Conseguimos assim, atingir a segunda colocação no NEXT, um evento proposto pela faculdade. Para mais informações, acesse: [https://www.fiap.com.br/2019/11/02/iot-challenge/](https://www.fiap.com.br/2019/11/02/iot-challenge/)
+Conseguimos assim, atingir a segunda colocação no NEXT, um evento proposto pela faculdade. Para mais informações, acesse: <a href="https://www.fiap.com.br/2019/11/02/iot-challenge/" target="_blank">https://www.fiap.com.br/2019/11/02/iot-challenge</a>
 </p>
 
 ## Integrantes:
